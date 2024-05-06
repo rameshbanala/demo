@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.background-section {
+    background-color: #1b1b1b;
+    padding: 15px;
+
+}
+
+.heading1 {
+    font-family: Bree Serif;
+    color: #ffffff;
+    font-size: 30px;
+}
+
+.main-card {
+    border-radius: 10px;
+    background-color: #e6f6ff;
+
+}
+
+.main-card-img {
+    height: 220px;
+    width: 150px;
+}
+
+.main-card-heading {
+    font-size: 25px;
+    color: #183b56;
+    font-family: Bree Serif;
+}
+
+.main-card-section {
+    padding: 10px;
+}
+
+.main-card-para1 {
+    font-size: 15px;
+    color: #1b1b1b;
+    font-family: Bree Serif;
+}
+
+.main-card-para2 {
+    font-size: 12px;
+    color: #183b56;
+    font-family: Bree Serif;
+}
+
+.books-card {
+    margin: 10px;
+}
+
+.books-img-card {
+    border-radius: 10px;
+    height: 160px;
+    width: 120px;
+}
+
+.books-card-heading {
+    font-family: Bree Serif;
+    font-size: 22px;
+    color: #ffffff;
+    font-weight: 500;
+}
+
+.books-card1 {
+    padding: 10px;
+}
+
+.books-img-card-para {
+    font-family: Bree Serif;
+    font-size: 15px;
+    color: #ffffff;
+}
+
+.section-head {
+    text-align: center;
+    padding: 5px;
+}
+
+.image-1 {
+    border-radius: 10px;
+    height: 250px;
+    width: 180px;
+}
+
+.section-main-para {
+    font-family: Bree Serif;
+    font-size: 15px;
+    color: #9aa5b1;
+}
+
+.section-para {
+    font-family: Bree Serif;
+    font-size: 15px;
+    color: #ffffff;
+}
+
+.button1 {
+    margin-right: 5px;
+}
